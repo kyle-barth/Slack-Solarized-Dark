@@ -9,7 +9,7 @@ A simple clean solarized dark theme for slack
 
 >***add this to the end of your ssb-interop.js file ->***
 >
->```// dark solarized
+>```// solarized theme
 >document.addEventListener('DOMContentLoaded', function () {
 >  $.ajax({
 >      url: 'https://raw.githubusercontent.com/kyle-barth/Slack-Solarized-Dark/master/solarized.css',
@@ -17,7 +17,7 @@ A simple clean solarized dark theme for slack
 >          $("<style></style>").appendTo('head').html(css);
 >      }
 >  });
->```
+>});
 
 Code by GitHub user: earlduque
 (I just chamged some values for to achievce a dark solarized appearance)
