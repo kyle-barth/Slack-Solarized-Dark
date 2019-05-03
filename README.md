@@ -20,4 +20,4 @@ A simple clean solarized dark theme for slack
 >});
 
 Code by GitHub user: earlduque
-(I just changed some values for to achievce a dark solarized appearance)
+(I just changed some values to achievce a dark solarized appearance)
