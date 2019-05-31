@@ -7,6 +7,13 @@ A simple clean solarized dark theme for slack
 2. Mac: /Applications/Slack.app/Contents/
 3. Linux: /usr/lib/slack/
 
+*navigate into the most recent version of slack e.g `\app-3.4.2`*
+
+Then continue to navigate to ->
+\resources\app.asar.unpacked\src\static
+
+example full path -> %homepath%\AppData\Local\slack\app-3.4.2\resources\app.asar.unpacked\src\static
+
 >***add this to the end of your ssb-interop.js file ->***
 >
 >```// solarized theme
