@@ -1,5 +1,7 @@
 # Slack-Solarized-Dark
 
+DEPRICATED - slack now has built in dark mode ¯\_(ツ)_/¯
+
 A simple clean solarized dark theme for slack
 
 *navigate to ->*
